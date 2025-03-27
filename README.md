@@ -1,4 +1,3 @@
-
 # Traffic Accident Analysis & Prediction
 
 ## 📌 Project Description
@@ -27,11 +26,3 @@ This project aims to analyze traffic accident data to find accident-prone areas,
 ## 💻 Installation
 ```bash
 pip install -r requirements.txt
-```
-
-## 📊 Usage
-1. Place `data.csv` in the same directory.
-2. Run the `Traffic_Accident_Analysis.ipynb` notebook.
-
-## 📄 License
-This project is licensed under the MIT License.
